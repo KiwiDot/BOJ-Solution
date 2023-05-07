@@ -1,4 +1,4 @@
-// 백준 1000번 A+B
+// 백준 1000번 A+B 
 # include <iostream>
 using namespace std;
 
