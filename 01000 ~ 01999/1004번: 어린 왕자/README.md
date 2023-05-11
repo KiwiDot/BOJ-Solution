@@ -83,4 +83,4 @@
 <br></br>
 
 #### 링크
-[1004번: 터렛](https://www.acmicpc.net/problem/1004)
+[1004번: 어린 왕자](https://www.acmicpc.net/problem/1004)
