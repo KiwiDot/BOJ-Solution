@@ -1,1 +1,31 @@
+# A/B 
 
+### 문제
+두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성하시오.
+<br></br>
+
+### 입력
+첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)
+<br></br>
+
+### 출력
+첫째 줄에 A/B를 출력한다. 실제 정답과 출력값의 절대오차 또는 상대오차가 10^-9 이하이면 정답이다.
+<br></br>
+#
+
+### 예제 입력 1
+<pre class="sampledata" id="sample-output-1" style="background-color: #f7f7f9; border-radius: 5px; border: 1px solid rgb(225, 225, 232); box-sizing: border-box; color: #333333; font-family: Menlo, Monaco, &quot;Source Code Pro&quot;, consolas, monospace; font-size: 18px; line-height: 1.42857; margin-bottom: 10px; margin-top: 0px; overflow-wrap: normal; overflow: scroll auto; padding: 8px; word-break: normal;">1 3</pre>
+
+### 예제 출력 1
+<pre class="sampledata" id="sample-output-1" style="background-color: #f7f7f9; border-radius: 5px; border: 1px solid rgb(225, 225, 232); box-sizing: border-box; color: #333333; font-family: Menlo, Monaco, &quot;Source Code Pro&quot;, consolas, monospace; font-size: 18px; line-height: 1.42857; margin-bottom: 10px; margin-top: 0px; overflow-wrap: normal; overflow: scroll auto; padding: 8px; word-break: normal;">0.33333333333333333333333333333333</pre>
+<br></br>
+
+### 예제 입력 2
+<pre class="sampledata" id="sample-output-1" style="background-color: #f7f7f9; border-radius: 5px; border: 1px solid rgb(225, 225, 232); box-sizing: border-box; color: #333333; font-family: Menlo, Monaco, &quot;Source Code Pro&quot;, consolas, monospace; font-size: 18px; line-height: 1.42857; margin-bottom: 10px; margin-top: 0px; overflow-wrap: normal; overflow: scroll auto; padding: 8px; word-break: normal;">4 5</pre>
+
+### 예제 출력 2
+<pre class="sampledata" id="sample-output-1" style="background-color: #f7f7f9; border-radius: 5px; border: 1px solid rgb(225, 225, 232); box-sizing: border-box; color: #333333; font-family: Menlo, Monaco, &quot;Source Code Pro&quot;, consolas, monospace; font-size: 18px; line-height: 1.42857; margin-bottom: 10px; margin-top: 0px; overflow-wrap: normal; overflow: scroll auto; padding: 8px; word-break: normal;">0.8</pre>
+<br></br>
+
+#### 링크
+[1008번: A/B](https://www.acmicpc.net/problem/1008)
