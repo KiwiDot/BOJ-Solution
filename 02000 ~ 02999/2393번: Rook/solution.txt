@@ -1,0 +1,27 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. Main.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 A        PIC 9(1).
+       01 B        PIC 9(1).
+       01 C1       PIC 9(1).
+       01 C2       PIC 9(2).
+
+       PROCEDURE DIVISION.
+       Begin.
+           DISPLAY "  ___  ___  ___"
+           DISPLAY "  | |__| |__| |"
+           DISPLAY "  |           |"
+           DISPLAY "   \_________/"
+           DISPLAY "    \_______/"
+           DISPLAY "     |     |"
+           DISPLAY "     |     |"
+           DISPLAY "     |     |"
+           DISPLAY "     |     |"
+           DISPLAY "     |_____|"
+           DISPLAY "  __/       \__"
+           DISPLAY " /             \"
+           DISPLAY "/_______________\"
+
+           STOP RUN.
