@@ -1,4 +1,4 @@
-# 백준 2420번 사파리월드
+# 백준 2420번 사파리월드 
 import sys
 put = sys.stdin.readline
 
