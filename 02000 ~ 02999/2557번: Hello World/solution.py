@@ -1,2 +1,2 @@
-# 백준 2557번 Hello World
+# 백준 2557번 Hello World 
 print("Hello World!")
