@@ -1,4 +1,4 @@
-# 백준 3003번 킹,퀸,룩,비숍,나이트,폰 
+# 백준 3003번 킹,퀸,룩,비숍,나이트,폰
 import sys
 put = sys.stdin.readline
 
