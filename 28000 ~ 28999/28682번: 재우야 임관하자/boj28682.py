@@ -14,4 +14,4 @@ answer = []
 for i in range(n):
     answer.append(list(subject - {check[i], F[i]})[0])
 
-print(*answer)
+print(*answer, flush=True)
